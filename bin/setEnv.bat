@@ -1,10 +1,10 @@
 echo off
-rem =================================
+rem ================================
 rem	You must install Java Software Development Kit 1.5 or later!
 rem	You must set the path variable UC_HOME and JDK_HOME before running it!
 rem	You MAY NOT use spaces in the path names
 rem	JDK_HOME is the full path name of the Java Software Development Kit's installation directory, such as D:\jdk1.5.0_19 
-rem =================================
+rem ================================
 
 set UC_HOME=..
 
